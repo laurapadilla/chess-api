@@ -41,6 +41,174 @@
           "youtube": "@gothamchess"
         }
       ]
+    },
+    {
+      "id": 2,
+      "name": "Magnus Carlsen",
+      "title": "GM",
+      "country": "Norway",
+      "ratings": [
+        {
+          "rapid": 2900,
+          "blitz": 2876,
+          "classical": 2856
+        }
+      ],
+      "social": [
+        {
+          "twitch": "N/A",
+          "twitter": "@magnuscarles",
+          "instagram": "@magnuscarles",
+          "youtube": "N/A"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Hikaru Nakamura",
+      "title": "GM",
+      "country": "United States",
+      "ratings": [
+        {
+          "rapid": 2798,
+          "blitz": 2854,
+          "classical": 2798
+        }
+      ],
+      "social": [
+        {
+          "twitch": "@hikaru",
+          "twitter": "@hikaru",
+          "instagram": "@hikaru",
+          "youtube": "@hikaru"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Dina Belenkaya",
+      "title": "WGM",
+      "country": "Russia",
+      "ratings": [
+        {
+          "rapid": 2378,
+          "blitz": 2335,
+          "classical": 2432
+        }
+      ],
+      "social": [
+        {
+          "twitch": "@thebelenkaya",
+          "twitter": "@thebelenkaya",
+          "instagram": "@thebelenkaya",
+          "youtube": "@thebelenkaya"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Aman Hambleton",
+      "title": "GM",
+      "country": "United States",
+      "ratings": [
+        {
+          "rapid": 2765,
+          "blitz": 2712,
+          "classical": 2698
+        }
+      ],
+      "social": [
+        {
+          "twitch": "@chessbrah",
+          "twitter": "@chessbrah",
+          "instagram": "@chessbrah",
+          "youtube": "@chessbrah"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Aurora Ciobanu",
+      "title": "GM",
+      "country": "Romania",
+      "ratings": [
+        {
+          "rapid": 2765,
+          "blitz": 2689,
+          "classical": 2775
+        }
+      ],
+      "social": [
+        {
+          "twitch": "@gmaurora",
+          "twitter": "@gmaurora",
+          "instagram": "@gmaurora",
+          "youtube": "@gmaurora"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Anna Cramling",
+      "title": "WFM",
+      "country": "Sweden",
+      "ratings": [
+        {
+          "rapid": 2498,
+          "blitz": 2456,
+          "classical": 2398
+        }
+      ],
+      "social": [
+        {
+          "twitch": "@annacramling",
+          "twitter": "@annacramling",
+          "instagram": "@annacramling",
+          "youtube": "@annacramling"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Anna Rudolf",
+      "title": "WFM",
+      "country": "Hungary",
+      "ratings": [
+        {
+          "rapid": 2325,
+          "blitz": 2393,
+          "classical": 2398
+        }
+      ],
+      "social": [
+        {
+          "twitch": "@annarudolf_chess",
+          "twitter": "@annarudolf_chess",
+          "instagram": "@annarudolf_chess",
+          "youtube": "@annarudolf_chess"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Alireza Firouzja",
+      "title": "GM",
+      "country": "Iran",
+      "ratings": [
+        {
+          "rapid": 2812,
+          "blitz": 2798,
+          "classical": 2808
+        }
+      ],
+      "social": [
+        {
+          "twitch": "@alirezafirouzja",
+          "twitter": "@alirezafirouzja",
+          "instagram": "@alirezafirouzja",
+          "youtube": "@alirezafirouzja"
+        }
+      ]
     }
   ]
 }
