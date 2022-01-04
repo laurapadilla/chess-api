@@ -1,0 +1,46 @@
+{
+  "players": [
+    {
+      "id": 0,
+      "name": "Alexandra Botez",
+      "title": "WFM",
+      "country": "United States",
+      "ratings": [
+        {
+          "rapid": 2376,
+          "blitz": 2248,
+          "classical": 2392
+        }
+      ],
+      "social": [
+        {
+          "twitch": "@botezlive",
+          "twitter": "@alexandrabotez",
+          "instagram": "@alexandrabotez",
+          "youtube": "@botezlive"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Levy Rozman",
+      "title": "IM",
+      "country": "United States",
+      "ratings": [
+        {
+          "rapid": 2498,
+          "blitz": 2456,
+          "classical": 2398
+        }
+      ],
+      "social": [
+        {
+          "twitch": "@gothamchess",
+          "twitter": "@gothamchess",
+          "instagram": "@gothamchess",
+          "youtube": "@gothamchess"
+        }
+      ]
+    }
+  ]
+}
